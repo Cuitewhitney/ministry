@@ -1,0 +1,159 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link{
+    color: black!important;
+    font-size: 16px!important;
+    font-weight: 500!important;
+}
+.nav-link:hover{
+    color: brown!important;
+    font-size: 18px!important;
+    letter-spacing: 2px!important;
+    transition: 1s;
+}
+
+/* LIVE BUTTON STARTS*/
+#bttn{
+    padding: 5px 30px 5px 30px;
+    margin-left: 40px;
+    border-radius: 50px;
+    background-color: rgb(212, 86, 86);
+    border-color: rgb(212, 86, 86);
+    font-weight: 700;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+}
+#bttn:hover{
+    padding: 7px 35px 7px 35px;
+    background-color: rgb(123, 14, 14);
+    border-color: rgb(123, 14, 14);
+}
+/* LIVE BUTTON ENDS */
+.banner{
+    background-image: url("../images/c5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding-top: 100px;
+    text-align: center;
+    justify-content: center;
+}
+
+.text-center{
+    padding: 20px 0;
+}
+#text1{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: azure;
+}
+#text2{
+    padding-bottom: 50px;
+    /* font-size: 2rem; */
+    letter-spacing: 2px;
+    font-weight: 600;
+    color: azure;
+}
+
+#btn1{
+    border-radius: 20px;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+#btn1:hover{
+    padding: 5px 15px;
+    font-size: 1.2rem;
+}
+
+#btn2{
+    margin-left: 10px;
+    border-radius: 20px;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+#btn2:hover{
+    padding: 5px 15px;
+    font-size: 1.2rem;
+}
+/* Banner ends */
+
+/* About Us starts */
+#about{
+    margin-top: 50px;
+}
+#text_sized{
+    margin-top: 70px;
+    font-size: 3em;
+    font-weight: 400;
+}
+#txt_sized{
+    margin-top: 30px;
+    font-size: 3em;
+    font-weight: 400;
+}
+#text_p{
+    margin-top: 15px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    font-weight: 300;
+}
+/* About Us ends */
+/* prayer starts */
+#prayer{
+    margin-top: 50px;
+}
+/* prayer ends */
+img{
+    width: 100%;
+}
+
+/* How to be a true christian starts */
+.fellowship{
+    margin-top: 30px;
+}
+#text_size{
+    font-size: 3em;
+    font-weight: 400;
+}
+.card{
+    border: none !important;
+}
+
+/* how to be a true christian ends */
+
+/* contact starts */
+#contact{
+    margin-top: 50px;
+}
+form label{
+    font-size: 18px;
+    font-weight: 600;
+}
+#img{
+    height: 100%;
+}
+/* contact ends */
+/* footer starts */
+footer{
+    margin-top: 50px;
+}
+#footer_img{
+    width: 50%;
+    height: 50%;
+}
+#arrow{
+    font-size: 28px;
+    font-weight: 600;
+}
+#font_up a i{
+    color: black;
+}
+/* footer ends */
